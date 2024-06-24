@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642659454744",
+    "project_id": "dolphin-project-4c8b4",
+    "storage_bucket": "dolphin-project-4c8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642659454744:android:5660ea9bb80996584c986d",
+        "android_client_info": {
+          "package_name": "com.joaorodrigues.dolphinmvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AelL80sQ3tJ1wvwHLg0M3hKX8MLVyf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
